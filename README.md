@@ -1,7 +1,5 @@
 <h1>Flutter Zoom Meetings Clone App </h1>
 
-<br>
-<br>
 <h2>Description</h2>
 <br>
 <p>Build a Complete Zoom Clone with Flutter, Firebase & Jitsi Meet.</p>
@@ -35,6 +33,6 @@
 <h2>Video Demo</h2>
 <br>
 
-![Test-Gif-File](https://github.com/Ebrahim1133/Flutter-Zoom-Clone-App/blob/master/clideo_editor_c274bf145688473a8f1dc17282af1424.mp4)
+![Test-Gif-File](https://github.com/Ebrahim1133/Flutter-Zoom-Clone-App/blob/master/clideo_editor_c274bf145688473a8f1dc17282af1424.gif)
 
 
